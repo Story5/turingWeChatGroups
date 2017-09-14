@@ -36,12 +36,14 @@
   <tr>
     <th>部分</th>
     <th>时间</th>
+    <th>日期</th>
     <th>章节</th>
     <th>小结</th>
   </tr>
   <tr>
     <td rowspan="2">第一部分 起步</td>
     <td rowspan="2">第1天</td>
+    <td rowspan="2">9月4日星期一</td>
     <td>第1章 起步</td>
     <td></td>
   </tr>
@@ -52,21 +54,25 @@
   <tr>
     <td rowspan="6">第二部分 基础知识</td>
     <td>第2天</td>
+    <td>9月5日星期二</td>
     <td>第3章 条件语句</td>
     <td></td>
   </tr>
   <tr>
     <td>第3天</td>
+    <td>9月6日星期三</td>
     <td>第4章 数</td>
     <td></td>
   </tr>
   <tr>
     <td>第4天</td>
+    <td>9月7日星期四</td>
     <td>第5章 switch语句</td>
     <td></td>
   </tr>
   <tr>
     <td rowspan="2">第5天</td>
+    <td rowspan="2">9月8日星期五</td>
     <td>第6章 循环</td>
     <td></td>
   </tr>
@@ -76,154 +82,186 @@
   </tr>
   <tr>
     <td>第6天</td>
+    <td>9月9日<font color=red>星期六</font></td>
     <td>第8章 可空类型</td>
     <td></td>
   </tr>
   <tr>
     <td rowspan="7">第三部分 容器和函数</td>
     <td>第7天</td>
+    <td>9月10日星期日</td>
     <td>第9章 数组</td>
     <td></td>
   </tr>
   <tr>
     <td>第8天</td>
+    <td>9月11日星期一</td>
     <td>第10章 字典</td>
     <td></td>
   </tr>
   <tr>
     <td>第9天</td>
+    <td>9月12日星期二</td>
     <td>第11章 集合</td>
     <td></td>
   </tr>
   <tr>
     <td>第10天</td>
+    <td>9月13日星期三</td>
     <td rowspan="2">第12章 函数</td>
     <td>12.1 ~ 12.3</td>
   </tr>
   <tr>
     <td>第11天</td>
+    <td>9月14日星期四</td>
     <td>12.4 ~ 12.11</td>
   </tr>
   <tr>
     <td>第12天</td>
+    <td>9月15日星期五</td>
     <td rowspan="2">第13章 闭包</td>
     <td>13.1 ~ 13.4</td>
   </tr>
   <tr>
     <td>第13天</td>
+    <td>9月16日<font color=red>星期六</font></td>
     <td>13.5 ~ 13.10</td>
   </tr>
   <tr>
     <td rowspan="11">第四部分  枚举、结构体和类</td>
     <td>第14天</td>
+    <td>9月17日星期日</td>
     <td rowspan="2">第14章 枚举</td>
     <td>14.1 ~ 14.3</td>
   </tr>
   <tr>
     <td>第15天</td>
+    <td>9月18日星期一</td>
     <td>14.4 ~ 14.7</td>
   </tr>
   <tr>
     <td>第16天</td>
+    <td>9月19日星期二</td>
     <td rowspan="2">第15章 结构体和类</td>
     <td>15.1 ~ 15.4</td>
   </tr>
   <tr>
     <td>第17天</td>
+    <td>9月20日星期三</td>
     <td>15.5 ~ 15.10</td>
   </tr>
   <tr>
     <td>第18天</td>
+    <td>9月21日星期四</td>
     <td rowspan="2">第16章 属性</td>
     <td>16.1 ~ 16.4</td>
   </tr>
   <tr>
     <td>第19天</td>
+    <td>9月22日星期五</td>
     <td>16.5 ~ 16.10</td>
   </tr>
   <tr>
     <td>第20天</td>
+    <td>9月23日<font color=red>星期六</font></td>
     <td rowspan="3">第17章 初始化</td>
     <td>17.1 ~ 17.2</td>
   </tr>
   <tr>
     <td>第21天</td>
+    <td>9月24日星期日</td>
     <td>17.3</td>
   </tr>
   <tr>
     <td>第22天</td>
+    <td>9月25日星期一</td>
     <td>17.4 ~ 17.8</td>
   </tr>
   <tr>
     <td>第23天</td>
+    <td>9月26日星期二</td>
     <td rowspan="2">第18章 值类型与引用类型</td>
     <td>18.1 ~ 18.4</td>
   </tr>
   <tr>
     <td>第24天</td>
+    <td>9月27日星期三</td>
     <td>18.5 ~ 18.8</td>
   </tr>
   <tr>
     <td rowspan="10">第五部分 Swift高级编程</td>
     <td>第25天</td>
+    <td>9月28日星期四</td>
     <td>第19章 协议</td>
     <td></td>
   </tr>
   <tr>
     <td>第26天</td>
+    <td>9月29日星期五</td>
     <td>第20章 错误处理</td>
     <td></td>
   </tr>
   <tr>
     <td>第27天</td>
+    <td>9月30日<font color=red>星期六</font></td>
     <td>第21章 扩展</td>
     <td></td>
   </tr>
   <tr>
     <td>第28天</td>
+    <td>10月1日星期日</td>
     <td rowspan="3">第22章 泛型</td>
     <td>22.1 ~ 22.2</td>
   </tr>
   <tr>
     <td>第29天</td>
+    <td>10月2日星期一</td>
     <td>22.3 ~ 22.8</td>
   </tr>
   <tr>
     <td>第30天</td>
+    <td>10月3日星期二</td>
     <td>22.9 ~ 22.10</td>
   </tr>
   <tr>
     <td>第31天</td>
+    <td>10月4日星期三</td>
     <td>第23章 协议扩展</td>
     <td></td>
   </tr>
   <tr>
     <td>第32天</td>
+    <td>10月5日星期四</td>
     <td rowspan="2">第24章 内存管理和ARC</td>
     <td>24.1 ~ 24.3</td>
   </tr>
   <tr>
     <td>第33天</td>
+    <td>10月6日星期五</td>
     <td>24.4 ~ 24.8</td>
   </tr>
   <tr>
     <td>第34天</td>
+    <td>10月7日<font color=red>星期六</font></td>
     <td>第25章 Equatable和Comparable</td>
     <td></td>
   </tr>
   <tr>
     <td rowspan="4">第六部分 事件驱动的应用</td>
     <td>第35天</td>
+    <td>10月8日星期日</td>
     <td>第26章 第一个Cocoa应用</td>
     <td></td>
   </tr>
   <tr>
     <td>第36天</td>
+    <td>10月9日星期一</td>
     <td>第27章 第一个iOS应用</td>
     <td></td>
   </tr>
   <tr>
     <td>第37天</td>
+    <td>10月10日星期二</td>
     <td>第28章 互操作</td>
     <td></td>
   </tr>
